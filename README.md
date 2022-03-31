@@ -11,5 +11,3 @@
 4. Organization :
 
 ### CV
-
-![]( {Data-science/tes1.png} )
