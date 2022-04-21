@@ -1,7 +1,7 @@
-### Hi I am jefri frans
+###I am jefri <br>
 <b>Mathematic Computational Science</b>
 <article>
-<p>I am Mathematican and use python, Java Script, MATLAB to coding in my repository, I am study in field mathematic computational and applied of mathematic<p>
+  <p>I am Mathematican </p>
 </article>
 
 ### Courses, Training, Volunteer/Organization
@@ -9,5 +9,5 @@
 2. Training :
 3. Volunteer :
 4. Organization :
-
-### CV
+<br>
+[linktree](https://linktr.ee/jefrifrans)
