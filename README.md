@@ -1,5 +1,5 @@
 ### I am jefri <br>
-<b>Mathematic Computational Science Bachelor of mathemtic ITS Surabaya</b> <br>
-<b>Information System </b>
+<bMathemtic ITS Surabaya</b> <br>
+<b>Master's Student of Information System ITS Surabaya</b>
 
 - [**linktree**](https://linktr.ee/jefrifrans)
